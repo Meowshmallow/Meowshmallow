@@ -23,14 +23,14 @@ Nav:
     
     icon:
         github: 
-            use: true
+            use: false
             link: https://github.com/miccall
         Twitter:
             use: false
             link: 
         Facebook:
-            use: false
-            link: 
+            use: true
+            link: https://github.com/miccall
         Instagram:
             use: false
             link:
@@ -53,8 +53,8 @@ MainFirst:
     goto_ulr: ""
 
 Gallery :
-    title: Mr.metro 
-    description: Just another fine responsive 
+    title: 喵菓子圖庫 
+    description: 相關圖像資料都會放這邊呦 
 
 # ---------------------------------------------------------------
 # Style Settings
