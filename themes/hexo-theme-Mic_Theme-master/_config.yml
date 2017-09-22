@@ -10,7 +10,7 @@ head:
     keywords: Meowshmallow 喵菓子
 
 Intro:
-    name: 喵菓子工作室
+    name: 喵菓子工作室へ
     slogan: "我們只是個致力於做個軟萌的AVG小團隊 <br/> "
     HeadButton: Meowshmallow
 
@@ -47,7 +47,7 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    description: 由肥宅和肥宅和肥宅和OvvO和美少女亞莓組成的遊戲製作社團
+    description: 本工作室是由一群大學生所組成的遊戲製作工作室
     name: Meowshmallow Studio
     pic_url: https://vectr.com/armecyan/e6YqDLW0lY.svg?width=640&height=640&select=e6YqDLW0lYpage0
     goto_ulr: ""
