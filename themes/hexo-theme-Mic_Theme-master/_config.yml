@@ -30,7 +30,7 @@ Nav:
             link: 
         Facebook:
             use: true
-            link: https://github.com/miccall
+            link: https://www.facebook.com/%E5%96%B5%E8%8F%93%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%AE%A4-Meowshmallow-1966766666913677/
         Instagram:
             use: false
             link:
@@ -72,7 +72,7 @@ fonts: FZLTCXHJW, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB"
 # Available value of "use":
 #     duoshuo | disqus | disqus_click | changyan
 comment:
-    use: disqus_click
+    use: false
     shortname: http-miccall-tech 
     duoshuo_thread_key_type: path
     duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
@@ -97,7 +97,7 @@ leancloud:
 
 # Busuanzi 不蒜子 Views
 busuanzi:
-    enable: true
+    enable: false
     all_site_uv: true
     post_pv: true
     busuanzi_pure_mini_js: "https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"
